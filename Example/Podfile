@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XZUIColorExtension_Example' do
+  pod 'XZUIColorExtension', :path => '../'
+
+  target 'XZUIColorExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
