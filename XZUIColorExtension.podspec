@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: UIColorExtension
                        DESC
 
-  s.homepage         = 'https://github.com/wowxznianshao@163.com/XZUIColorExtension'
+  s.homepage         = 'https://github.com/XuZzz/XZUIColorExtension'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wowxznianshao@163.com' => 'wowxznianshao@163.com' }
-  s.source           = { :git => 'https://github.com/wowxznianshao@163.com/XZUIColorExtension.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/XuZzz/XZUIColorExtension.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
