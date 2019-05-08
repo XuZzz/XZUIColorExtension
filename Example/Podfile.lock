@@ -1,0 +1,16 @@
+PODS:
+  - XZUIColorExtension (0.1.0)
+
+DEPENDENCIES:
+  - XZUIColorExtension (from `../`)
+
+EXTERNAL SOURCES:
+  XZUIColorExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XZUIColorExtension: f95f5a4d0ad0d278cd0dfdc566c82f54014e2edb
+
+PODFILE CHECKSUM: 90c533b38cc98605c105cde7dcd085a0bc7ce3ca
+
+COCOAPODS: 1.6.1

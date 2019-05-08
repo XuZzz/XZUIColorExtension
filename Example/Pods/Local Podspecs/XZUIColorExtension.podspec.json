@@ -1,0 +1,22 @@
+{
+  "name": "XZUIColorExtension",
+  "version": "0.1.0",
+  "summary": "XZUIColorExtension.",
+  "description": "TODO: UIColorExtension",
+  "homepage": "https://github.com/wowxznianshao@163.com/XZUIColorExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wowxznianshao@163.com": "wowxznianshao@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wowxznianshao@163.com/XZUIColorExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XZUIColorExtension/Classes/**/*"
+}
