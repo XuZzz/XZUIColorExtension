@@ -27,6 +27,10 @@ public extension UIColor {
         return UIColor(red: 64.0/255.0, green: 64.0/255.0, blue: 64.0/255.0, alpha: 0.75)
     }
     
+    class var color_202020: UIColor {
+        return UIColor.hexColor("#202020")
+    }
+    
     var toHexString: String {
         var r: CGFloat = 0
         var g: CGFloat = 0
